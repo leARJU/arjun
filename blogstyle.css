@@ -1,0 +1,34 @@
+ .bg{
+    text-align: center; 
+    background-color: yellow;
+
+ }
+ .menu{
+    display:inline;
+  
+ }
+ .main{
+    border-left: 2px solid green;
+    position: relative;
+    bottom: 130px;
+    padding: 10px;
+    left: 300px;
+ }
+ .contact{
+    text-align: center;
+ }
+ .post{
+    border: 3px;
+    width: fit-content;
+    height: fit-content;
+    border-color: green;
+    border-style: dotted;
+    position: relative;
+    bottom: 650px;
+    left: 1690px;
+
+ }
+ .text{
+    text-align: right;
+ }
+
