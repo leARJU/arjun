@@ -1,0 +1,40 @@
+body{
+    background-color: gray;
+}
+.bg{
+    background-color: rgb(182, 13, 13);
+    color:white;
+    border: 1px solid black;
+}
+.link{
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 10px;
+}
+img{
+    float: left;
+}
+.para{
+    font-size: 18px;
+}
+ .container-fluid .row .main{
+    background-color: rgb(242, 247, 247);
+    border: 1px solid black;
+    text-align: left;
+   
+
+}
+.subdiv{
+    background-color: rgb(242, 247, 247);
+    border: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    width :max-content;
+    height: fit-content;
+}
+.copyright{
+    background-color: lightgrey;
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
