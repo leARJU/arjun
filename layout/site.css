@@ -1,0 +1,44 @@
+.part1{
+    background-color: orangered;
+}
+.h1{
+    margin-left: 50%;
+    font-style: oblique;
+}
+.p1{
+    margin-left: 10px;
+    padding-left: 450px;
+}
+.hg{
+    margin-left: 450px;
+}
+.logo1{
+    margin-left: 450px;
+}
+.img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+img{
+    float: left;
+}
+.head{
+     margin-top: 40px;
+     margin-left: 25%;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.word{
+    margin-top: 30px;
+    padding-left: 100px;
+    font-style: italic;
+
+
+}
+.word1{
+    margin-left: 97px;
+}
+.hg1{
+    margin-left: 635px;
+    margin-top: 100px;
+
+}
